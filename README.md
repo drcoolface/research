@@ -2,7 +2,7 @@
 
 # This research paper is published in the "Research Annals of Xavier's Nepal" Science and Technology series Issue:5,1,2023
 
-The research paper can be found at https://drcoolface.github.io/SankalpaKC/
+The research paper can be found at https://master--glowing-kashata-57161d.netlify.app
 
 This paper explores weather forecasting using deep learning models. The deep learning models used are
 #LSTM 
